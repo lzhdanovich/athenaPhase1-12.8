@@ -1,4 +1,4 @@
-"Guid","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__PriceBook2__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__UpperBound__c"
-54dac94f-00b1-4696-9b8a-8ad766cfb907,testBlockPrice,"#N/A","#N/A","#N/A",2498f9df-89a7-468c-b438-de208bab9e0a,"#N/A",8774760c-9497-45db-8c06-89813e61f058,"#N/A"
-5967fef8-7103-4906-8803-7cebab3a473d,testBlockPrice2,"#N/A","#N/A","#N/A",9fade668-d2e9-4865-a145-00edc4b3451c,"#N/A","#N/A","#N/A"
-bcd73f83-117b-4ea4-ba4d-c1477927e47f,testBlockPrice1,"#N/A","#N/A","#N/A",5d023d4c-d33c-48a9-94b2-d8bff95644a0,"#N/A",53d7c086-e76e-44b4-9efc-dc20d55727bf,"#N/A"
+"Guid","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__PriceBook2__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__UpperBound__c","checkbox1__c"
+54dac94f-00b1-4696-9b8a-8ad766cfb907,testBlockPrice_edit,"#N/A","#N/A","#N/A",2498f9df-89a7-468c-b438-de208bab9e0a,"#N/A",8774760c-9497-45db-8c06-89813e61f058,"#N/A",false
+5967fef8-7103-4906-8803-7cebab3a473d,testBlockPrice2_edit,"#N/A","#N/A","#N/A",9fade668-d2e9-4865-a145-00edc4b3451c,"#N/A","#N/A","#N/A",false
+bcd73f83-117b-4ea4-ba4d-c1477927e47f,testBlockPrice1_edit,"#N/A","#N/A","#N/A",5d023d4c-d33c-48a9-94b2-d8bff95644a0,"#N/A",53d7c086-e76e-44b4-9efc-dc20d55727bf,"#N/A",false
