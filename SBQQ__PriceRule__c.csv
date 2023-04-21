@@ -1,3 +1,0 @@
-"Guid","Emailmanaged__c","Name","Price_Action__c","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__Product__c","SBQQ__TargetObject__c"
-5aa95037-dcfe-4ffc-863d-a2d670bd848e,"#N/A",TEST,a7e04bea-ed35-4968-959c-ce3ffc196d26,false,"#N/A",All,"#N/A",On Calculate,"#N/A",SBQQ__LookupData__c,"#N/A",Configurator
-ead0e806-b76f-4e0a-96a2-59e46d757e32,"#N/A",NEW PRICE RULE,71ea7ed6-a756-4a72-86ae-2481ae91c6ff,true,"#N/A",Any,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Configurator
