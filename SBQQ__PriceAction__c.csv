@@ -1,0 +1,3 @@
+"Guid","SBQQ__Field__c","SBQQ__Formula__c","SBQQ__Order__c","SBQQ__Rule__c","SBQQ__SourceLookupField__c","SBQQ__SourceVariable__c","SBQQ__TargetObject__c","SBQQ__ValueField__c","SBQQ__Value__c"
+a7e04bea-ed35-4968-959c-ce3ffc196d26,Discount (%),"#N/A","#N/A",5aa95037-dcfe-4ffc-863d-a2d670bd848e,"#N/A","#N/A",Product Option,"#N/A","#N/A"
+f55286ba-6ff2-428c-9ce7-d382da5bf8d0,Discount (%),"#N/A","#N/A",c4314d61-79b3-4b50-a66b-e38eb73a16fd,"#N/A","#N/A",Quote Line,"#N/A",50
