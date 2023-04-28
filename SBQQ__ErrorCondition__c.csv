@@ -1,2 +1,2 @@
-"Guid","SBQQ__FilterType__c","SBQQ__FilterValue__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedVariable__c"
-ff97ba63-e773-4820-8555-45cbaf2a776c,Value,0,"#N/A","#N/A",not equals,e54f6d90-0349-4fa0-88ac-d711babfa58e,"#N/A",Product Option,3d45b03e-f43d-4af5-a575-1048bbda4694
+"Guid","SBQQ__FilterType__c","SBQQ__FilterValue__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedAttribute__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedVariable__c"
+ff97ba63-e773-4820-8555-45cbaf2a776c,Value,0,"#N/A","#N/A",not equals,e54f6d90-0349-4fa0-88ac-d711babfa58e,"#N/A","#N/A",Product Option,3d45b03e-f43d-4af5-a575-1048bbda4694
