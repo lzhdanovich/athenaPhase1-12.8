@@ -1,2 +1,2 @@
-"Guid","SBQQ__LookupField__c","SBQQ__MatchType__c","SBQQ__Operator__c","SBQQ__PriceRule2__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedValue__c"
-e5879ef6-b93e-4c3e-875d-164f64eb749f,SBQQ__Category__c,Static Value,equals,5aa95037-dcfe-4ffc-863d-a2d670bd848e,"#N/A","#N/A",123
+"Guid","SBQQ__LookupField__c","SBQQ__MatchType__c","SBQQ__Operator__c","SBQQ__PriceRule2__c","SBQQ__ProductRule__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedValue__c"
+e5879ef6-b93e-4c3e-875d-164f64eb749f,SBQQ__Category__c,Static Value,equals,5aa95037-dcfe-4ffc-863d-a2d670bd848e,"#N/A","#N/A","#N/A",123
