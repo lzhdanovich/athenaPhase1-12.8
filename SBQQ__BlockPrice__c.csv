@@ -1,0 +1,4 @@
+"Guid","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__PriceBook2__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__UpperBound__c"
+8083249f-87e5-45c2-9a71-ba6552bc3979,testBlockPrice1_edit,"#N/A","#N/A","#N/A",3c11658b-a905-4d48-99c7-466fa8860f64,"#N/A",cf4283d4-e683-4713-9b4b-be3c2f3fa577,"#N/A"
+bbeb061f-c5be-4d6c-b74e-048984e38c04,testBlockPrice_edit,"#N/A","#N/A","#N/A",ae737758-bba6-4535-8025-3c0b4048d7e6,"#N/A",65ea9f5d-44e4-462f-8632-27fb2d40c2ee,"#N/A"
+c5d5406c-8019-43e4-ad79-5e00579659e3,testBlockPrice2_edit,"#N/A","#N/A","#N/A",8a99742e-9dec-4ae9-a9b9-c3bb2a100dee,"#N/A","#N/A","#N/A"
