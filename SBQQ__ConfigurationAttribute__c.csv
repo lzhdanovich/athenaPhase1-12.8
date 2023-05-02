@@ -1,4 +1,1 @@
 "Guid","Name","SBQQ__AppliedImmediately__c","SBQQ__ApplyToProductOptions__c","SBQQ__AutoSelect__c","SBQQ__ColumnOrder__c","SBQQ__DefaultField__c","SBQQ__DefaultObject__c","SBQQ__DisplayOrder__c","SBQQ__Feature__c","SBQQ__HiddenValues__c","SBQQ__Hidden__c","SBQQ__Position__c","SBQQ__Product__c","SBQQ__Required__c","SBQQ__ShownValues__c","SBQQ__TargetField__c"
-21080a66-4f63-40c6-8178-23084c140d58,GLOBAL ATTRIBUTE,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Discount (%)
-50496479-fab3-4501-bb5a-2b89ff0fb542,TEST ATTRIBUTE,false,false,false,1,"#N/A","#N/A",1.0,e74be8a0-08a3-4a4c-b0b8-cc5c3563d951,"#N/A",false,Top,b0b77ae7-19c3-49fe-8434-3e91e09908c1,false,"#N/A",Unit Price
-930cd713-de45-49e5-807b-a3a812472e2a,TEST CONFIGURATION ATTRIBUTE,false,false,false,1,"#N/A","#N/A",1.0,e74be8a0-08a3-4a4c-b0b8-cc5c3563d951,"#N/A",false,Top,b0b77ae7-19c3-49fe-8434-3e91e09908c1,false,"#N/A",Discount (%)

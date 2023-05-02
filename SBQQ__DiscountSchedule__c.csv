@@ -1,2 +1,17 @@
 "Guid","Name","SBQQ__AggregationScope__c","SBQQ__ConstraintField__c","SBQQ__CrossOrders__c","SBQQ__CrossProducts__c","SBQQ__Description__c","SBQQ__DiscountUnit__c","SBQQ__ExcludedPricebookIds__c","SBQQ__IncludeBundledProducts__c","SBQQ__OriginalDiscountSchedule__c","SBQQ__OverrideBehavior__c","SBQQ__PriceScale__c","SBQQ__Pricebook__c","SBQQ__Product__c","SBQQ__QuoteLineQuantityField__c","SBQQ__Type__c","SBQQ__UsePriceForAmount__c","SBQQ__UserDefined__c"
-db34e954-7887-4bd2-845c-a61de258d475,TEST SCHEDULE,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,c7040f1f-5367-443c-ac62-1301c7710799,"#N/A",Quantity,Range,false,false
+14617a30-d873-4ee9-85a5-1ed2767ea0e1,Test4,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+2313a06f-fd96-414e-95f7-ffc5530d1cc3,Test1,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+38f8409f-a4e2-462a-8d6f-92c8e73f8a9d,Test1,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+3f9ddb9f-7890-4b4e-95d3-c8165d0991c7,Test4,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+569437b4-8026-4121-8632-a25134066d5b,Test2,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+5e42f1c6-3a07-4f66-a248-c5dd4bf6083f,Test3,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+811a57f6-95a2-4b84-93a2-93f2ed54e2d7,Test4,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+81d419cb-281f-46f0-b531-2858d5734a28,Test3,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+843fbaf1-2a39-4014-8204-0b464ea7698d,Test3,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+a84a624b-e828-4bc6-b6fb-0404fbd25732,Test4,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+b645c427-4462-4a81-9eb5-604fd50728b4,Test3,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+ba1c423d-25bf-4e09-a641-0e261039b399,Test2,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+ef9b7674-5c85-4804-8ddc-23c8a721ebec,Test2,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+fc5a9f2a-cd9c-4fb5-8be8-ad42e4a32151,Test1,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+fd4d1199-dba7-43e8-88da-f5c7b0131072,Test1,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+fe073f21-a3b7-461e-85d0-f28afcff80e0,Test2,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A","#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false

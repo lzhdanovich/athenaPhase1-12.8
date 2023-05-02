@@ -1,3 +1,2 @@
 "Guid","SBQQ__LookupField__c","SBQQ__MatchType__c","SBQQ__Operator__c","SBQQ__PriceRule2__c","SBQQ__ProductRule__c","SBQQ__TestedConfigurationAttribute__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedValue__c"
-3706147d-c38e-46ed-a212-5fc205084107,SBQQ__Category__c,Field Value,equals,ead0e806-b76f-4e0a-96a2-59e46d757e32,"#N/A","#N/A",Product Code,Quote,1
 e5879ef6-b93e-4c3e-875d-164f64eb749f,SBQQ__Category__c,Static Value,equals,5aa95037-dcfe-4ffc-863d-a2d670bd848e,"#N/A","#N/A","#N/A","#N/A",123
